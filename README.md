@@ -1,1 +1,1 @@
-# erlang-http-parser
+# Erlang HTTP Parser
